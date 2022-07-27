@@ -39,7 +39,7 @@ During my preliminary researches in the field of computer science, late 2013, I 
 =========
 ### Screenshots
 
-[[/minieprototype.jpg]]
+![image](https://user-images.githubusercontent.com/2111910/181143118-3809aa23-3e87-4608-b1a2-95ce6ff2e036.png)
 ##### *Minie v0.1a or Minie Prototype* 
 
 
