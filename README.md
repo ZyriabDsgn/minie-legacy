@@ -1,6 +1,6 @@
 ## Minie - Minie is not IE ##
 
-This is some 2013 memorabilia, Minie was a project I started at 17 when I wanted to go for an academic route after studying programming for 3 years by myself.
+This is some 2013 memorabilia, Minie was a project I started at 17 when I wanted to go for an academic route after studying programming for 4 years by myself.
 It should have been a "hook project" to grab the attention of the MIT where I wanted to study a CSEE master.
 
 A project to better my (poor) skills on architecture and programming among other things.
